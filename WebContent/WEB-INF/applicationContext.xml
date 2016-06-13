@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans>
+<bean id="demo" name="com.demo.DemoAction" url="/demo.do"></bean>
+<bean id="copy" name="com.demo.CopyAction" url="/copy.do"></bean>
+</beans>
